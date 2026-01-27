@@ -3,9 +3,8 @@ This is the official PyTorch code of the paper **[FineCol: A Fine-Grained Datase
 [![homepage](https://img.shields.io/badge/homepage-GitHub-blue)](https://github.com/yourname/yourproject)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## 📢 Updates
-* **[2025.12]**: Datasets, test codes, and pretrained weights are released!
-
+## 📦 The Constructed Fine-Grained Dataset
+[Download Link Here](https://drive.google.com/file/d/16Sa4sdmVPhUfY5SIHITCS2hn-QjsLoSA/view?usp=sharing)
 
 ## 🛠️ Setup
 
@@ -35,8 +34,8 @@ cp -r hack_codes/* ../path_to_your_comfyui_repo/
 ### 4. Checkpoints & Datasets
 Please download the datasets and our pre-trained weights from the links below:
 
-* **Constructed fine-grained textual dataset**: [Download Link Here](https://drive.google.com/...) and place in
-* **Pre-trained weights**: [Download Link Here](https://drive.google.com/...) and place in
+* **Constructed fine-grained textual dataset**: [Download Link Here](https://drive.google.com/file/d/16Sa4sdmVPhUfY5SIHITCS2hn-QjsLoSA/view?usp=sharing)
+* **Pre-trained weights**: [Download Link Here](https://drive.google.com/...)
 * **Other datasets:** Other datasets used in this project follow the COCO-LC. For more details, please refer to the [COCO-LC Project Page](https://github.com/lyf1212/COCO-LC).
 
 Put all the attribute-adapters checkpoints to ``../path_to_your_comfyui_repo/models/loras``
