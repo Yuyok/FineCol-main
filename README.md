@@ -1,4 +1,4 @@
-This is the official PyTorch code of the paper **[FineCol: A Fine-Grained Dataset for Image Colorization with Semantic Diffusion Framework]**.
+This is the official PyTorch code of **FineCol**.
 
 [![homepage](https://img.shields.io/badge/homepage-GitHub-blue)](https://github.com/yourname/yourproject)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
